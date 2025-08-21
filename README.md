@@ -1,0 +1,2 @@
+# spam.vbs
+spam.vbs
